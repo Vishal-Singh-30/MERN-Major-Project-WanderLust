@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to our Airbnb Clone, an online marketplace for short- and long-term homestays and experiences. This project aims to replicate the core functionalities of Airbnb, allowing users to list their properties and book accommodations, as well as discover unique experiences.
+Welcome to an online marketplace for short- and long-term homestays and experiences. This project aims to replicate the core functionalities of Airbnb, allowing users to list their properties and book accommodations, as well as discover unique experiences.
 
 ## Table of Contents
 
